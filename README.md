@@ -1,1 +1,2 @@
 # LMS-HW20.1
+QA Manual 16.10.2025
